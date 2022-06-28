@@ -1,0 +1,33 @@
+total 124
+drwxrwxr-x 2 abdul abdul 4096 Jun 26 14:59 .
+drwxrwxr-x 6 abdul abdul 4096 Jun 26 11:27 ..
+-rwxrw-r-- 1 abdul abdul   32 Jun 26 11:42 0-hello_world
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 100-empty_casks
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 101-gifs
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 102-acrostic
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 103-the_biggest_fan
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 10-no_more_js
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 11-directories
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 12-newest_files
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 13-unique
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 14-findthatword
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 15-countthatword
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 16-whatsnext
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 17-hidethisword
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 18-letteronly
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 19-AZ
+-rwxrw-r-- 1 abdul abdul   28 Jun 26 11:45 1-confused_smiley
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 20-hiago
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 21-reverse
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 22-users_and_homes
+-rwxrw-r-- 1 abdul abdul   29 Jun 26 11:58 2-hellofile
+-rwxrw-r-- 1 abdul abdul   39 Jun 26 12:10 3-twofiles
+-rwxrw-r-- 1 abdul abdul   35 Jun 26 11:59 4-lastlines
+-rwxrw-r-- 1 abdul abdul   35 Jun 26 12:29 5-firstlines
+-rwxrw-r-- 1 abdul abdul   40 Jun 26 12:36 6-third_line
+-rwxrw-r-- 1 abdul abdul   99 Jun 26 14:42 7-file
+-rwxrw-r-- 1 abdul abdul   36 Jun 26 14:49 8-cwd_state
+-rwxrw-r-- 1 abdul abdul   13 Jun 25 09:41 9-duplicate_last_line
+-rw-rw-r-- 1 abdul abdul   12 Jun 26 14:03 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 abdul abdul  744 Jun 26 12:36 iacta
+-rw-rw-r-- 1 abdul abdul    0 Jun 26 14:59 ls_cwd_content
